@@ -11,7 +11,7 @@
 
 > example
 ```
-git clone https://gitlab.aiacademy.tw/junew/AIA_Kneron.git
+git clone https://github.com/juneGithub001/AIA_Kneron_social.git
 ```
 
 ## Step2: Auto env. build 

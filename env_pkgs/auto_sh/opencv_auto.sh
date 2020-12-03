@@ -5,7 +5,7 @@ sudo apt-get -y upgrade
 sudo apt-get -y install screen 
 sudo apt-get -y install htop
 sudo apt-get purge wolfram-engine 
-sudo apt-get purge libreoffice* 
+#sudo apt-get purge libreoffice* 
 sudo apt-get clean 
 sudo apt-get -y autoremove
 sudo apt-get -y install build-essential cmake pkg-config 

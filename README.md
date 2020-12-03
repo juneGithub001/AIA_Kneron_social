@@ -16,7 +16,7 @@ git clone https://github.com/juneGithub001/AIA_Kneron_social.git
 
 ## Step2: Auto env. build 
 ```
-cd AIA_Kneron_socail
+cd AIA_Kneron_social
 bash kneron_env_auto.sh
 ```
 
